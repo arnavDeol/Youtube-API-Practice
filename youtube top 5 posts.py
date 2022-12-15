@@ -1,11 +1,11 @@
 import requests
 
 # Replace the value of the `api_key` variable with your own YouTube API key
-api_key = "AIzaSyDydR5ONTAyxFt8lcFZn88cOHdgtUuZ67k"
+api_key = "<api_key>"
 
 # Replace the value of the `channel_id` variable with the ID of the channel
 # whose top posts you want to retrieve
-channel_id = "UC9DXAsBD4-ITVuvpd68401Q"
+channel_id = "<channel_id>"
 
 # Set the number of posts you want to retrieve
 number_of_posts = 5
